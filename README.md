@@ -6,7 +6,7 @@
 # now execute java user_enc.java for encryption/Decryption
 
 
-# Node.java include all basic coding about the tree with its details about particular node
+# Node.java include all basic coding about the tree with its details about particular node ie. (Left node and right node).
 # user_enc.java include all encryption/decryption coding for ownerid,values,owner_name and hash values
 ## // Encryption will be done in AES 128 bit // ##
 # End
